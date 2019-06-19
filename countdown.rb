@@ -4,7 +4,7 @@ def count(int)
   int -= 1
   puts "#{int} SECOND(S)!"
   end 
-  puts ""
+  puts "HAPPY NEW YEAR!"
 end 
 
 
